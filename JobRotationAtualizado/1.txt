@@ -1,0 +1,9 @@
+O valor da variável SOMA será 91.
+
+O código acima é um laço de repetição que soma os números inteiros de 1 a 13 (inclusive), armazenando o resultado na variável SOMA.
+
+Inicialmente, a variável INDICE é definida como 13, SOMA é definida como 0 e K é definida como 0.
+
+Em seguida, enquanto K for menor do que INDICE, o loop será executado. A cada iteração do loop, K é incrementado em 1 e SOMA é atualizada adicionando o valor atual de K.
+
+Quando K alcançar 13, a condição K < INDICE será falsa e o loop terminará. Nesse ponto, o valor final de SOMA será a soma de 1 + 2 + 3 + ... + 12 + 13, que é igual a 91. Portanto, o valor impresso no final será 91.

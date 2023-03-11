@@ -1,0 +1,5 @@
+a) O ponto de encontro será exatamente no meio da distância entre as duas cidades, ou seja, a 50 km de cada uma delas. Como ambos os veículos estão viajando na mesma velocidade, eles se encontrarão exatamente no ponto médio da rodovia, que é equidistante das duas cidades. Portanto, ambos os veículos estarão a uma distância exatamente igual da cidade de Ribeirão Preto.
+
+b) Mesmo que o caminhão leve 5 minutos a mais para passar em cada pedágio, isso não fará diferença na distância percorrida pelo veículo em relação ao ponto médio da rodovia, onde eles se encontrarão. Portanto, ambos os veículos ainda estarão a uma distância exatamente igual da cidade de Ribeirão Preto.
+
+c) O resultado é que ambos os veículos estarão a uma distância exatamente igual da cidade de Ribeirão Preto quando se cruzarem na rodovia, independente da presença de pedágios e da velocidade dos veículos.
